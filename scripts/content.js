@@ -4,7 +4,7 @@
 // @version      0.0.1
 // @description  Cancel AtJump on Niconico.
 // @author       ymmtmdk
-// @license      MIT; https://opensource.org/licenses/MIT
+// @license      MIT License
 // @match        https://www.nicovideo.jp/watch/*
 // @grant        none
 // ==/UserScript==
