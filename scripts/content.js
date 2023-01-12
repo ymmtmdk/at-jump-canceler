@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         AtJumpCanceler
 // @namespace    AtJumpCanceler
-// @version      0.0.1
+// @version      0.0.2
 // @description  Cancel AtJump on Niconico.
 // @author       ymmtmdk
 // @license      MIT License
